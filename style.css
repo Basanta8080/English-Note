@@ -1,0 +1,28 @@
+
+a{
+
+text-decoration:none;
+color:black;
+background-color:silver;
+padding:5px;
+border:2px solid white;
+font-size:20px;
+font-weight:bold;
+
+}
+a:active {
+background:aqua;
+
+}
+img {
+
+width:100%;
+height:100%;
+border:4px solid aqua;
+}
+body {
+
+background:skyblue;
+
+
+}
